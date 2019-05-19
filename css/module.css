@@ -1,0 +1,21 @@
+/*----------
+  btn
+----------*/
+
+.btn {
+	cursor: pointer;
+	padding: 5px 10px;
+	border: 1px solid #ccc;
+}
+
+.btn:hover {
+	background-color: #ccc;
+}
+
+/*----------
+  utility
+----------*/
+
+.text-light {
+	color: #ccc !important;
+}
